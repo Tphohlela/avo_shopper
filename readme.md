@@ -1,5 +1,7 @@
 # Avo shopper
 
+[![Build Status](https://app.travis-ci.com/Tphohlela/avo_shopper.svg?branch=master)](https://app.travis-ci.com/Tphohlela/avo_shopper)
+
 It’s avocado season and there are special offers everywhere. Help your friends to keep track of finding the cheapest avos by creating a little web app using the supplied Factory Function in `avo-shopper.js`.
 
  Use the sql script in `sql/tables.sql` to create the required tables in your local database.
